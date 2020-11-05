@@ -1,6 +1,6 @@
 # projecteuler
 
-Solutions to problems sent by projecteuler.net
+Solutions to problems sent by [projecteuler.net](https://projecteuler.net/)
 ### Problem 1
 Multiples of 3  and  5
 
