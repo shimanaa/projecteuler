@@ -62,3 +62,11 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 [Solution](https://github.com/shimanaa/projecteuler/blob/main/solutions/problem6.py)
 
+
+### Problem 7
+10001st prime
+
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+What is the 10 001st prime number?
+
+[Solution](https://github.com/shimanaa/projecteuler/blob/main/solutions/problem7.py)
