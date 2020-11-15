@@ -70,3 +70,16 @@ By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that 
 What is the 10 001st prime number?
 
 [Solution](https://github.com/shimanaa/projecteuler/blob/main/solutions/problem7.py)
+
+
+### Problem 8
+Special Pythagorean triplet
+
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+a2 + b2 = c2
+For example, 32 + 42 = 9 + 16 = 25 = 52.
+There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+Find the product abc.
+
+[Solution](https://github.com/shimanaa/projecteuler/blob/main/solutions/problem8.py)
+
